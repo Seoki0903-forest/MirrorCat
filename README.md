@@ -4,15 +4,15 @@ View your Android screen on your computer and customize keyboard and mouse mappi
 
 ## Download
 
-[![Download for Windows](https://img.shields.io/badge/Windows-Download%20Beta-6750A4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Seoki0903-forest/MirrorCat/releases/download/v0.2.180-beta/MirrorCat-Windows-0.2.180-Setup.exe)
+[![Download for Windows](https://img.shields.io/badge/Windows-Download%20Beta-6750A4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Seoki0903-forest/MirrorCat/releases/download/v0.2.196-beta/MirrorCat-Windows-0.2.196-Setup.exe)
 
-[![Download for macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20ZIP-6750A4?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Seoki0903-forest/MirrorCat/releases/download/v0.2.180-beta/MirrorCat-macOS-0.2.127-build130-arm64.zip)
+[![Download for macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20ZIP-6750A4?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Seoki0903-forest/MirrorCat/releases/download/v0.2.196-beta/MirrorCat-macOS-0.2.132-build135-arm64.zip)
 
-**Windows:** 0.2.180 Beta (build 183). Close MirrorCat if it is running, then download and run the installer. [Portable ZIP](https://github.com/Seoki0903-forest/MirrorCat/releases/download/v0.2.180-beta/MirrorCat-Windows-0.2.180-portable.zip) is also available.
+**Windows:** 0.2.196 Beta (build 199). Close MirrorCat if it is running, then download and run the installer. [Portable ZIP](https://github.com/Seoki0903-forest/MirrorCat/releases/download/v0.2.196-beta/MirrorCat-Windows-0.2.196-portable.zip) is also available.
 
-**macOS:** 0.2.127 Beta (build 130), Apple Silicon arm64. Download the ZIP, extract TabletControl.app, and move it to Applications. Intel Mac binaries are not included. This build is not Apple Developer ID signed or notarized; macOS may show a security warning.
+**macOS:** 0.2.132 Beta (build 135), Apple Silicon arm64. Download the ZIP, extract TabletControl.app, and move it to Applications. Intel Mac binaries are not included. This build is ad-hoc signed, is not Apple Developer ID signed or notarized, and Gatekeeper assessment rejects it.
 
-[Release notes](https://github.com/Seoki0903-forest/MirrorCat/releases/tag/v0.2.180-beta) · [Download checksums](https://github.com/Seoki0903-forest/MirrorCat/releases/download/v0.2.180-beta/SHA256SUMS.txt) · [All releases](https://github.com/Seoki0903-forest/MirrorCat/releases)
+[Release notes](https://github.com/Seoki0903-forest/MirrorCat/releases/tag/v0.2.196-beta) · [Download checksums](https://github.com/Seoki0903-forest/MirrorCat/releases/download/v0.2.196-beta/SHA256SUMS.txt) · [All releases](https://github.com/Seoki0903-forest/MirrorCat/releases)
 
 ## Connect your Android device
 
@@ -20,7 +20,7 @@ View your Android screen on your computer and customize keyboard and mouse mappi
 2. Connect using USB or the same local Wi-Fi network. Follow the in-app registration instructions for Wi-Fi control.
 3. Select a mapping profile. Input-only connection is available without screen sharing.
 
-Android companion: 0.2.82 / versionCode 84 has been submitted through the existing Google Play closed Alpha channel. Availability depends on Google review. Android files are distributed separately from this desktop release.
+Android companion: 0.2.97 / versionCode 99 has been submitted through the existing Google Play closed Alpha channel. The review request has been accepted and automated checks are running; approval and tester availability have not been verified. Android files are distributed separately from this desktop release.
 
 This is a test beta. Controls and compatibility can vary between games and devices. Windows is unsigned. Commercial/codec redistribution review remains incomplete.
 

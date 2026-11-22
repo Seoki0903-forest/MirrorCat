@@ -4,15 +4,15 @@ View your Android screen on your computer and customize keyboard and mouse mappi
 
 ## Download
 
-[![Download for Windows](https://img.shields.io/badge/Windows-Download%20Beta-6750A4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Seoki0903-forest/MirrorCat/releases/download/v0.2.267-beta/MirrorCat-Windows-0.2.267-Setup.exe)
+[![Download for Windows](https://img.shields.io/badge/Windows-Download%20Beta-6750A4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Seoki0903-forest/MirrorCat/releases/download/v0.2.269-beta/MirrorCat-Windows-0.2.269-Setup.exe)
 
 [![Download for macOS](https://img.shields.io/badge/macOS-Apple%20Silicon%20ZIP-6750A4?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Seoki0903-forest/MirrorCat/releases/download/v0.2.263-beta/MirrorCat-macOS-0.2.142-build145-arm64.zip)
 
-**Windows:** 0.2.267 Beta (build 270). Close MirrorCat if it is running, then download and run the installer. [Portable ZIP](https://github.com/Seoki0903-forest/MirrorCat/releases/download/v0.2.267-beta/MirrorCat-Windows-0.2.267-portable.zip) is also available.
+**Windows:** 0.2.269 Beta (build 272). Close MirrorCat if it is running, then download and run the installer. [Portable ZIP](https://github.com/Seoki0903-forest/MirrorCat/releases/download/v0.2.269-beta/MirrorCat-Windows-0.2.269-portable.zip) is also available.
 
 **macOS:** 0.2.142 Beta (build 145), Apple Silicon arm64. Download the ZIP, extract TabletControl.app, and move it to Applications. Intel Mac binaries are not included. This build is ad-hoc signed, is not Apple Developer ID signed or notarized, and macOS may block opening it. This is the existing Mac build; the latest touch variation and jitter update for macOS is still pending.
 
-[Release notes](https://github.com/Seoki0903-forest/MirrorCat/releases/tag/v0.2.267-beta) · [Download checksums](https://github.com/Seoki0903-forest/MirrorCat/releases/download/v0.2.267-beta/SHA256SUMS.txt) · [All releases](https://github.com/Seoki0903-forest/MirrorCat/releases)
+[Release notes](https://github.com/Seoki0903-forest/MirrorCat/releases/tag/v0.2.269-beta) · [Download checksums](https://github.com/Seoki0903-forest/MirrorCat/releases/download/v0.2.269-beta/SHA256SUMS.txt) · [All releases](https://github.com/Seoki0903-forest/MirrorCat/releases)
 
 ## Connect your Android device
 
